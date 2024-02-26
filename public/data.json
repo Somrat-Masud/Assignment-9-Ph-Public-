@@ -1,0 +1,62 @@
+[
+ 
+    {
+        "id": "1",
+        "name": "Dr.Rana Khan",
+        "image": "https://i.ibb.co/K9gPDVC/author2.jpg",
+        "title": "D.D.S.: Doctor of Dental Surgery",
+        "description": "Doctor of Dental Surgery. A dentist.An advanced social work degree often held by educators in social work.",
+        "price": "Visited Price: 1200Tk",
+        "others" : "M.B.B.S: Dhaka Medical College, September 1984,7th Position in third Professional M.B.B.S. & 6th Position in Final M.B.B.S. held under the University of Dhaka F.C.P.S. (Medicine) January 1992, M.R.C.P (U.K.) : May 1996, F.R.C.P (Edin): May 2005, FACC in 2009"
+  },
+    {
+        "id": "2",
+        "name": "Prof. Dr.Jonaid Shafiq",
+        "image": "https://i.ibb.co/6bSyRtz/team-2.jpg",
+        "title": "Psy. D.: Doctor of Psychology",
+        "description": "Doctor of Psychology. This is a clinical psychology degree that places more emphasis on practice than research. Psy.D. programs developed to train practitioners who would keep up with research but might never do much research themselves",
+        "price":"Visited Price: 1500Tk",
+        "others":"MBBS, MS (CTS), FCPS (CVS - Final Part). Clinical Observer & Fellow Training Oxford University Hospitals - London,UK Royel Prince Alfred & SAN Hospital, Sydney, Australia"
+  },
+{
+        "id": "3",
+        "name": "Dr. Nurun Naher",
+        "image":"https://i.ibb.co/mCZY748/author3.jpg" ,
+        "title": "Brain Injury Medicine, Neurology",
+        "description": "Brain injury medicine is a subspecialty that involves having expertise in the prevention, evaluation, treatment, and rehabilitation of individuals with acquired brain injury.",
+        "price":"Visited Price: 800Tk",
+        "others": "MBBS, BCS (Health), FCPS (Plastic & Reconstructive Surgery) Clinical Fellowship Plastic Surger(Japan Burn, Plastic, Cosmetic & Reconstructive Surgery Specialist Assistant Professor (Plastic Surgery) Dhaka Medical College & Hospital"
+   
+  },
+{
+        "id": "4",
+        "name": " Dr.Delwar Hossain",
+        "image": "https://i.ibb.co/yRXF6pg/about-img.jpg" ,
+        "title": "Blood Banking-Transfusion Medicine, Pathology",
+        "description": "According to the Accreditation Council for Graduate Medical Education, blood banking/transfusion medicine is the practice of laboratory and clinical medicine concerned with all aspects of blood transfusion, cellular therapies, and apheresis..",
+        "price":"Visited Price: 2000Tk",
+        "others":"MBBS, BCS (Health), MPhil (Biochemistry), MSc (Nutrition & Food Science)Certified Course (Therapeutic Diet Food & Nutrition Specialist & Lab Consultant Consultant (Food & Nutrition) National Hospital Chittagong & Sigma Lab Ltd."
+   
+  },
+{
+        "id": "5",
+        "name": "Dr.Shamsul Arefin",
+        "image": "https://i.ibb.co/0ChwgCk/mission-img.jpg",
+        "title": "Clinical Informatics, Pathology",
+        "description": "The Massachusetts General Hospital/Brigham and Women’s Hospital Clinical Informatics Fellowship Program seeks to train physicians to become leaders in Clinical Informatics..",
+        "price":"Visited Price: 500Tk",
+        "others":"MBBS, MD (Hematology) Hematology (Blood Cancer, Blood Diseases & Disorder) Specialist   Assistant Professor (Hematology)  Dhaka Medical College & Hospital"
+   
+  },
+{
+        "id": "6",
+        "name": "Dr. Asaduzzaman",
+        "image": "https://i.ibb.co/mJXVJ0p/appointment-image.jpg" ,
+        "title": "Craniofacial Surgery, Plastic Surgery",
+        "description": "Craniofacial surgery refers to a series of surgical procedures involving the skull and the face. Most patients have developmental or congenital conditions such as cleft lip or cleft palate and syndromes that affect the facial regions around the eyes, ears, or jaw",
+        "price":"Visited Price: 2000Tk",
+        "others":"MS (ORTHODONTICS), MCPS, FRSPH (LONDON ), BDS, BCS Orthodontics/Dental Braces SpecialConsultant (Orthodontics) Rajshahi Medical College & Hospital"
+   
+  }
+  
+]

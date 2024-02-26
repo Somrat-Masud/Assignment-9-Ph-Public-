@@ -1,0 +1,16 @@
+.banner{
+    /* background: url(https://i.ibb.co/J52Q3d3/slider2.jpg), no-repeat; */
+     background: url(https://i.ibb.co/n087VWT/news-image2.jpg);
+
+     /* background: url(https://i.ibb.co/Xb9sxcC/about-bg.jpg); */
+    
+   
+    /* background-repeat: no-repeat; */
+   
+    /* filter: blur(2px); */
+  height: 450px;
+  /* width: 950px; */
+}
+.ba{
+    background: url(https://i.ibb.co/n087VWT/news-image2.jpg);
+}
